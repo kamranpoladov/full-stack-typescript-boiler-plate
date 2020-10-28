@@ -34,10 +34,4 @@ TestRouter(router, ApiMethod.Delete, "/testDeleteId", (params) => {
   return;
 });
 
-router.get("/da", (req, res) => {
-  res.send("da");
-});
-
-console.log(router.stack);
-
 export default router;
