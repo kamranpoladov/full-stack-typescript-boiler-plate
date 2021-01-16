@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.validate.enable": true,
+  "eslint.validate": ["javascript"]
+}

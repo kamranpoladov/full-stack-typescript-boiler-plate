@@ -1,0 +1,1 @@
+export const UNDEFINED_ALIAS = 'UNDEFINED_ALIAS';

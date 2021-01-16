@@ -1,7 +1,0 @@
-.cache
-dist
-node_modules
-yarn-error.log
-yarn.lock
-build
-.nyc_output
